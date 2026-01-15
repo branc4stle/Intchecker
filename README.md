@@ -6,7 +6,7 @@
 ## 📥 Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/monst3r100/Intchecker.git
+git clone https://github.com/branc4stle/Intchecker.git
 cd Intchecker
 ```
 
